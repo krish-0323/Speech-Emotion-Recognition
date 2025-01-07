@@ -18,8 +18,8 @@ This project aims to recognize the top three emotions present in an audio file u
   - GRU teacher and student models with 128 and 64 nodes.
 
 <div style={display:flex}>
-  <img src="LSTM256.png" width=600 height=500>
-  <img src="GRU.png" width=600 height=300>
+  <img src="https://github.com/krish-0323/Speech-Emotion-Recognition/blob/main/assets/LSTM256.png" width=600 height=500>
+  <img src="https://github.com/krish-0323/Speech-Emotion-Recognition/blob/main/assets/GRU.png" width=600 height=300>
 </div>
 <hr>
   
@@ -35,14 +35,17 @@ This project aims to recognize the top three emotions present in an audio file u
   - Confusion matrix.
   - Validation loss and accuracy plots for various models.
 
-![confusionmatrix](https://github.com/user-attachments/assets/bc9cb408-342e-45f1-a7a8-1a03b881f177)
-![Val](https://github.com/user-attachments/assets/30f67062-9a16-4597-92d2-d31ce1a5b48e)
+<div style={display:flex}>
+  <img src="https://github.com/krish-0323/Speech-Emotion-Recognition/blob/main/assets/Confusion%20Matrix.png" width=600 height=500>
+  <img src="https://github.com/krish-0323/Speech-Emotion-Recognition/blob/main/assets/Validtion%20plot.png" width=600 height=300>
+</div>
 <hr>
 
 ## Dataset
 The **TESS Dataset** was used to train and validate the models.
 
-![Dataset](https://github.com/user-attachments/assets/13c9d402-4d2a-4f2b-bc18-eb26755a6772)
+
+  <img src="https://github.com/krish-0323/Speech-Emotion-Recognition/blob/main/assets/Dataset.png" width=600>
 <hr>
 
 ## Additional Features
@@ -51,8 +54,8 @@ The **TESS Dataset** was used to train and validate the models.
 - Web interface for accessing and visualizing results.
 
 <div style={display:flex}>
-  <img src="NAS.png" width=600 height=500>
-  <img src="Website.png" width=600 height=500>
+  <img src="https://github.com/krish-0323/Speech-Emotion-Recognition/blob/main/assets/NAS.png" width=600 height=500>
+  <img src="https://github.com/krish-0323/Speech-Emotion-Recognition/blob/main/assets/Website.png" width=600 height=300>
 </div>
 <hr>
 
@@ -60,9 +63,9 @@ The **TESS Dataset** was used to train and validate the models.
 - Performance metrics include confusion matrix and validation accuracy/loss plots.
 - Comparative analysis of models (LSTM teacher-student, GRU teacher-student, and Wave2Vec2).
 
- <div style="display: flex; justify-content: center; align-items: center; height: 100vh; flex-direction: column;">
+ <div">
   <h5>Wav2Vec2 Model Results</h5>
-  <img src="Wav2Vec2.png" width="600" height="300" />
+  <img src="https://github.com/krish-0323/Speech-Emotion-Recognition/blob/main/assets/Wav2Vec2.png" width="600" height="300" />
 </div>
 
 ---
