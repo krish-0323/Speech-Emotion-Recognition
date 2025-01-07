@@ -63,9 +63,9 @@ The **TESS Dataset** was used to train and validate the models.
 - Performance metrics include confusion matrix and validation accuracy/loss plots.
 - Comparative analysis of models (LSTM teacher-student, GRU teacher-student, and Wave2Vec2).
 
- <div">
-  <h5>Wav2Vec2 Model Results</h5>
+ <div>
+  <h4>Wav2Vec2 Model Results</h4>
   <img src="https://github.com/krish-0323/Speech-Emotion-Recognition/blob/main/assets/Wav2Vec2.png" width="300" height="300" />
 </div>
-
+<hr>
 ---
