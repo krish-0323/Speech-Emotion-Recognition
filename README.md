@@ -65,7 +65,7 @@ The **TESS Dataset** was used to train and validate the models.
 
  <div">
   <h5>Wav2Vec2 Model Results</h5>
-  <img src="https://github.com/krish-0323/Speech-Emotion-Recognition/blob/main/assets/Wav2Vec2.png" width="600" height="500" />
+  <img src="https://github.com/krish-0323/Speech-Emotion-Recognition/blob/main/assets/Wav2Vec2.png" width="300" height="500" />
 </div>
 
 ---
